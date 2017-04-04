@@ -1,0 +1,6 @@
+c:\users\ilya\documents\visual studio 2015\Projects\FirstExercise\FirstExercise\bin\Debug\FirstExercise.exe.config
+C:\Users\Ilya\documents\visual studio 2015\Projects\FirstExercise\FirstExercise\bin\Debug\FirstExercise.exe
+C:\Users\Ilya\documents\visual studio 2015\Projects\FirstExercise\FirstExercise\bin\Debug\FirstExercise.pdb
+C:\Users\Ilya\documents\visual studio 2015\Projects\FirstExercise\FirstExercise\obj\Debug\FirstExercise.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\documents\visual studio 2015\Projects\FirstExercise\FirstExercise\obj\Debug\FirstExercise.exe
+C:\Users\Ilya\documents\visual studio 2015\Projects\FirstExercise\FirstExercise\obj\Debug\FirstExercise.pdb

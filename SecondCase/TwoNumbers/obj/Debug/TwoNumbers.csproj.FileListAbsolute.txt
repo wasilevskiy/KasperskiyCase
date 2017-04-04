@@ -1,0 +1,6 @@
+c:\users\ilya\documents\visual studio 2015\Projects\TwoNumbers\TwoNumbers\bin\Debug\TwoNumbers.exe.config
+c:\users\ilya\documents\visual studio 2015\Projects\TwoNumbers\TwoNumbers\bin\Debug\TwoNumbers.exe
+c:\users\ilya\documents\visual studio 2015\Projects\TwoNumbers\TwoNumbers\bin\Debug\TwoNumbers.pdb
+c:\users\ilya\documents\visual studio 2015\Projects\TwoNumbers\TwoNumbers\obj\Debug\TwoNumbers.csprojResolveAssemblyReference.cache
+c:\users\ilya\documents\visual studio 2015\Projects\TwoNumbers\TwoNumbers\obj\Debug\TwoNumbers.exe
+c:\users\ilya\documents\visual studio 2015\Projects\TwoNumbers\TwoNumbers\obj\Debug\TwoNumbers.pdb
