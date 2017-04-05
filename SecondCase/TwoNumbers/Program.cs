@@ -60,13 +60,14 @@ namespace TwoNumbers
                 min = int.Parse(Console.ReadLine());
                 Console.WriteLine("Введите максимальную границу:");
                 max = int.Parse(Console.ReadLine());
-                Console.WriteLine("Введите количество чисел:");
-                count = int.Parse(Console.ReadLine());
                 if (max < min)
                 {
                     Console.WriteLine("Ошибка! Максимальное значение не может быть меньше минимального!");
                     return false;
                 }
+                Console.WriteLine("Введите количество чисел:");
+                count = int.Parse(Console.ReadLine());
+                
             }
             catch (Exception ex)
             {
