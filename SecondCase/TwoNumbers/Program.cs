@@ -12,7 +12,7 @@ namespace TwoNumbers
             int maxValue = 0;
             int Count = 0;
             //Считываем данные с клавиатуры
-            bool isNormal = CheckInput(number, minValue, maxValue, Count);
+            bool isNormal = CheckInput(ref number,ref minValue,ref maxValue,ref Count);
             if (isNormal)
             {
                 Hashtable table = new Hashtable();
@@ -46,7 +46,7 @@ namespace TwoNumbers
             return array;
         }
 
-        static bool CheckInput(int num, int min, int max, int count)
+        static bool CheckInput(ref int num,ref int min,ref int max,ref int count)
         {
             try
             {
