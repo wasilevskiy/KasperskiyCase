@@ -12,7 +12,7 @@ namespace TwoNumbers
             int maxValue = 0;
             int Count = 0;
             //Считываем данные с клавиатуры
-            bool isNormal = GetInfo(number, minValue, maxValue, Count);
+            bool isNormal = CheckInput(number, minValue, maxValue, Count);
             if (isNormal)
             {
                 Hashtable table = new Hashtable();
